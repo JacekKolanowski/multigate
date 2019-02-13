@@ -1,2 +1,3 @@
-# multigate
+# MULTIgate
+
 HOMING grant project website
